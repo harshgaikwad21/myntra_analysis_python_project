@@ -81,4 +81,22 @@ The notebook includes a step-by-step cleaning pipeline:
 - **Discounts drive engagement**, but selective use of **high-end brands** preserves **premium perception**.  
 - Helps in **inventory planning**, **pricing strategy**, and **brand positioning** decisions.  
 
+## 🛠️ Technologies Used
+
+- **Python**  
+- **Pandas**, **NumPy** – Data wrangling and analysis  
+- **Matplotlib**, **Seaborn** – Visualization  
+- **Jupyter Notebook** – Workflow documentation and presentation
+
+## 🚀 Future Scope
+
+- Add **time-series data** for tracking **seasonal pricing trends**.  
+- Perform **brand sentiment analysis** using **product reviews**.  
+- Use **machine learning** to **predict discount levels** or **sales success**.  
+
+##💼 Author
+
+**Project:** Myntra Sales Dataset Analysis
+**Created by:** Harsh Gaikwad
+**Tools:** Python, Jupyter Notebook, Data Visualization in markdown
 
