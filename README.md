@@ -94,9 +94,9 @@ The notebook includes a step-by-step cleaning pipeline:
 - Perform **brand sentiment analysis** using **product reviews**.  
 - Use **machine learning** to **predict discount levels** or **sales success**.  
 
-##💼 Author
+## 💼 Author
 
-**Project:** Myntra Sales Dataset Analysis
-**Created by:** Harsh Gaikwad
-**Tools:** Python, Jupyter Notebook, Data Visualization in markdown
+-**Project:** Myntra Sales Dataset Analysis
+-**Created by:** Harsh Gaikwad
+-**Tools:** Python, Jupyter Notebook, Data Visualization in markdown
 
