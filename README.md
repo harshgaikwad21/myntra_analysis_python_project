@@ -40,6 +40,7 @@ The notebook includes a step-by-step cleaning pipeline:
 4. **Data Type Conversion** – Converts columns like `price` and `ratings` into proper numeric formats.  
 
 # 📊 Data Visualization & Insights
+
 ## 💰 Price Distribution
 
 - The price distribution is **right-skewed**, meaning most products are **low-to-mid range**.  
