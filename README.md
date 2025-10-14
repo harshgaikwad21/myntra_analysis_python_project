@@ -75,3 +75,10 @@ The notebook includes a step-by-step cleaning pipeline:
 
 <img width="631" height="551" alt="image" src="https://github.com/user-attachments/assets/16f71f3d-f0ac-41c6-bab8-b1eac983e416" />
 
+## 🧠 Business Insights
+
+- Myntra maintains a strong **affordable fashion identity** with **mid-range pricing** and **visible discounts**.  
+- **Discounts drive engagement**, but selective use of **high-end brands** preserves **premium perception**.  
+- Helps in **inventory planning**, **pricing strategy**, and **brand positioning** decisions.  
+
+
