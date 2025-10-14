@@ -49,3 +49,13 @@ The notebook includes a step-by-step cleaning pipeline:
  
 <img width="987" height="490" alt="image" src="https://github.com/user-attachments/assets/005a1599-d72c-4eb3-b8a3-bdbdde2f1e6b" />
 
+## 🏷️ Discount Percentage Distribution
+
+- **Core Discount Range (40–60%)** — Myntra’s standard strategy for **value perception**.  
+- **Low Discounts (0–20%)** – Seen on **new arrivals** and **exclusive brands** (e.g., Nike, Levi’s, etc.).  
+- **High Discounts (70–90%)** – Represent **clearance** or **outdated stock**.
+
+  <img width="868" height="471" alt="image" src="https://github.com/user-attachments/assets/fbd2be91-3196-4488-9d09-0624e26bc43b" />
+
+
+
