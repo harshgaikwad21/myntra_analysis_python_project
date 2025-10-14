@@ -39,4 +39,12 @@ The notebook includes a step-by-step cleaning pipeline:
 3. **Outlier Detection (IQR method)** – Removes extreme `price` and `MRP` values for realistic insights.  
 4. **Data Type Conversion** – Converts columns like `price` and `ratings` into proper numeric formats.  
 
+# 📊 Data Visualization & Insights
+<img width="987" height="490" alt="image" src="https://github.com/user-attachments/assets/005a1599-d72c-4eb3-b8a3-bdbdde2f1e6b" />
+### 💰 Price Distribution
+
+- The price distribution is **right-skewed**, meaning most products are **low-to-mid range**.  
+- **Typical cluster:** ₹800–₹2,000 → Myntra’s **mass-market pricing zone**.  
+- A small portion of **high-priced items (>₹10,000)** represents **premium brands**.  
+
 
