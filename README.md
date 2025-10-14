@@ -29,3 +29,14 @@ The analysis helps in identifying:
 - Pricing behavior across brands
 
 - Discounting strategies used on the platform
+
+  ## 🧹 Data Cleaning Process
+
+The notebook includes a step-by-step cleaning pipeline:
+
+1. **Removing Duplicates** – Ensures unique product listings.  
+2. **Handling Missing Values** – Drops or imputes incomplete records.  
+3. **Outlier Detection (IQR method)** – Removes extreme `price` and `MRP` values for realistic insights.  
+4. **Data Type Conversion** – Converts columns like `price` and `ratings` into proper numeric formats.  
+
+
