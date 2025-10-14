@@ -63,15 +63,15 @@ The notebook includes a step-by-step cleaning pipeline:
 - Shows **correlation** between discounts, prices, and product ratings.  
 - Reveals that **higher discounts don’t always lead to better ratings** — suggesting **quality or perception trade-offs**.  
 
-**Top 10 Brands by Number of Products on Myntra**
+
 
 <img width="806" height="784" alt="image" src="https://github.com/user-attachments/assets/0c768ac4-e012-4936-84d3-58dc0e265d54" />
 
-**Top 10 Brands with Highest Average Discounts On Myntra**
+
 
 <img width="841" height="673" alt="image" src="https://github.com/user-attachments/assets/c4eeabbc-05a7-48e7-8a41-df859dfe06e4" />
 
-**Corelation Heatmap**
+
 
 <img width="631" height="551" alt="image" src="https://github.com/user-attachments/assets/16f71f3d-f0ac-41c6-bab8-b1eac983e416" />
 
