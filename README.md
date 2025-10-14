@@ -30,7 +30,7 @@ The analysis helps in identifying:
 
 - Discounting strategies used on the platform
 
-  # 🧹 Data Cleaning Process
+ # 🧹 Data Cleaning Process
 
 The notebook includes a step-by-step cleaning pipeline:
 
